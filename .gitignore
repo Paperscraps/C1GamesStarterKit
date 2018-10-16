@@ -7,3 +7,4 @@ algos/*
 
 dist/*
 !dist/.gitkeep
+scripts/create_zip.py
